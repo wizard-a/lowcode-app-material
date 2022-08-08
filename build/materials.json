@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "npm": "lowcode-app-material",
+    "version": "0.1.0",
+    "name": "lowcode-app-material",
+    "description": "lowcode-app-material",
+    "jsLibrary": 1,
+    "componentLibrary": 1,
+    "platform": 1
+  },
+  "components": [
+    {
+      "name": "ColorfulButton",
+      "title": "多彩按钮",
+      "description": "这里是多彩按钮的介绍",
+      "category": "General",
+      "homepage": "./docs/iframe.html?id=ColorfulButton--page&args=&viewMode=story"
+    },
+    {
+      "name": "ColorfulInput",
+      "title": "多彩Input",
+      "description": "这里是多彩按钮ColorfulInput的介绍",
+      "category": "General",
+      "homepage": "./docs/iframe.html?id=ColorfulInput--page&args=&viewMode=story"
+    }
+  ]
+}
